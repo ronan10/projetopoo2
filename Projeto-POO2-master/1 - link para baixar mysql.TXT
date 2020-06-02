@@ -1,0 +1,8 @@
+https://dev.mysql.com/downloads/installer/
+
+obs: é o de 420mb
+
+obs2: se o banco pedir login é
+
+login: root
+senha: administrador

@@ -1,0 +1,8 @@
+Vai no eclipse
+abre a parte de "help"
+escolhe a opção "eclipse marketplace"
+na aba de busca
+procura "window builder 1.9.3" ou "windows builder 1.9.3"
+acho que é a primeira opção
+baixa
+e o eclipse terá o swing
